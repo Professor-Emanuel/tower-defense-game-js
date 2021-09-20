@@ -1,0 +1,15 @@
+
+body{
+    background: burlywood;
+}
+#main-canvas{
+    border: 1px solid black;
+    background: cadetblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 900px;
+    height: 600px;
+    font-family: 'Orbitron', sans-serif;
+}
