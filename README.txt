@@ -7,3 +7,4 @@ Game will contain:
     5.resources
     6.utilities
 
+Game without (graphics)sprites! See tower-defense-game-2-js for more improvements and game with graphics/sprites
