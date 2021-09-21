@@ -1,6 +1,3 @@
-Font used: https://fonts.google.com/specimen/Orbitron
-
-
 Game will contain:
     
     1.game board
